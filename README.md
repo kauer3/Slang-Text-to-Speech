@@ -1,6 +1,6 @@
 <img align="left" src="/images/icon48.png">
 
-# Slang - Text to Speech
+<h1>Slang - Text to Speech</h1>
 
 <img align="left" src="/images/icon48.png" style="margin-bottom:-20px">
 
