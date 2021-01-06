@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <title>Document</title>
+    <style>
+        html, body {
+            width: 270px;
+            height: auto;
+            padding: 3px;
+            margin-left: -2px;
+            background-color:rgba(0, 0, 0, 0.575);
+            color: white;
+            font: arial;
+        }
+        ::selection {
+            color: rgb(224, 224, 224);
+            background: rgba(0, 81, 255, 0.315);
+        }
+        .form-group {
+            height: 50px;
+        }
+        .range {
+            cursor: pointer;
+            width: 130px;
+            position: absolute;
+            float: left;
+            margin-left: -90px;
+            margin-top: 2px;
+        }
+        .btn {
+            float: right;
+            width: 55px;
+            position: absolute;
+            margin-left: 23.5px;
+            margin-top: -9.5px;
+        }
+        #play {
+            margin-right: -300px;
+        }
+        #pause {
+            margin-left: 23px;
+            margin-top: -10px;
+        }
+        #stop {
+            margin-top: -10px;
+        }
+        .badge {
+            width: 25px;
+            position: absolute;
+            margin-left: 50px;
+            background-color: rgb(41, 96, 212);
+            color:rgb(225, 225, 225);
+        }
+        .hover:hover .badge {
+            background: rgb(0, 62, 197);
+            color: white;
+        }
+        .block {
+            margin-bottom: -20px;
+            margin-top: 5px;
+            margin-right: -8px;
+            margin-left: 5px;
+            color:rgb(210, 210, 210);
+        }
+        label {
+            float: left;
+            margin-top: -3px;
+            margin-left: -130px;
+            position: absolute;
+        }
+        .sel {
+            margin-bottom: -5px;
+            width: 254px;
+            margin-left: -10px;
+        }
+        #voice-select {
+            background-color: transparent;
+            color:rgb(210, 210, 210);
+            height: 35px;
+            border-radius: 20px;
+            border: 1px solid transparent;
+            font-size: 14px;
+            padding-left: 9px;
+        }
+        #voice-select option {
+            background:rgba(0, 0, 0, 0.856);
+            color: white;
+            width: 200px;
+        }
+        .hover:hover {
+            color:white;
+            text-shadow: 2px 1px rgba(0, 68, 216, 0.397);
+        }
+        #voice-select:hover {
+            color:white;
+            text-shadow: 1px 1px rgba(135, 143, 255, 0.404);
+        }
+        .area {
+            cursor: pointer;
+        }
+        #txt {
+            position: relative;
+            margin-left: -10px;
+            padding: 4px;
+            width: 254px;
+            background-color: transparent;
+            border: 1px solid transparent;
+            border-radius: 14px;
+            color: white;
+            margin-bottom: 3px;
+            text-align:initial;
+            line-height: 21px;
+            min-height: 30px;
+            max-height: 435px;
+            overflow: hidden;
+        }
+        #txt::placeholder {
+            color:rgb(180, 180, 180); 
+        }
+        ::-webkit-scrollbar {
+            width: 6px;
+            cursor: pointer;
+        }
+        ::-webkit-scrollbar-corner, ::-webkit-resizer {
+            color: transparent;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: rgba(119, 119, 119, 0.452);
+            border-radius: 13px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background:  rgba(0, 81, 255, 0.247);
+        }
+        ::-webkit-scrollbar-track {
+            box-shadow: inset 0 0 5px rgba(0, 81, 255, 0.459); 
+            border-radius: 13px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-md-6 mx-auto">
+                <form>
+                    <div class="form-group volume block">
+                        <div class="hover">
+                            <label for="volume">Vol</label>
+                            <div id="volume-value" class="badge badge-primary">1</div>
+                            <input type="range" id="volume" class="range" min="0" max="1" value="1" step="0.1">
+                        </div>
+                        <div class="btn">
+                            <image src="play.png" id="play" class="btn play" usemap="#play">
+                            <map name="play">
+                                <area shape="circle" coords="0,100, 100" class="area" id="playbtn">
+                            </map>
+                        </div>
+                    </div>
+                    <div class="form-group rate block">
+                        <div class="hover">
+                            <label for="rate">Rate</label>
+                            <div id="rate-value" class="badge badge-primary">1</div>
+                            <input type="range" id="rate" class="range" min="0.5" max="2" value="1" step="0.1">
+                        </div>
+                        <div class="btn">
+                            <image type="image" src="pause.png" id="pause" class="btn pause" usemap="#pause">
+                            <map name="pause">
+                                <area shape="circle" coords="0,100, 100" class="area" id="pausebtn">
+                            </map>
+                        </div>
+                    </div>
+                    <div class="form-group pitch block">
+                        <div class="hover">
+                            <label for="pitch">Pitch</label>
+                            <div id="pitch-value" class="badge badge-primary">1</div>
+                            <input type="range" id="pitch" class="range" min="0.5" max="2" value="1" step="0.1">
+                        </div>
+                        <div class="btn">
+                            <image src="stop.svg" id="stop" class="btn stop" usemap="#stop">
+                            <map name="stop">
+                                <area shape="circle" coords="0,100,100" class="area" id="stopbtn">
+                            </map>
+                        </div>
+                    </div>
+                    <div class="form-group sel">
+                        <select id="voice-select" class="form-control"></select>
+                    </div>
+                    <div name="textarea" class="form-control" id="txt" cols="32" contenteditable="true" spellcheck="false" placeholder="What do you want me to say?"></div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
