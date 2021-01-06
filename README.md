@@ -2,7 +2,7 @@
 
 # Slang - Text to Speech
 
-<img align="left" src="/images/icon48.png">
+<img align="left" src="/images/icon48.png" style="margin-bottom:-20px">
 
 ### A chrome extension that converts any selected text on the web to speech
 
@@ -10,6 +10,8 @@
 
 ### Topics:
   - [Description](#description)
+    - [Functionalities](#functionalities)
+    - [How to use](#how-to-use)
   - [Demo](#demo)
   - [Download](#download)
 
