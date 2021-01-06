@@ -1,36 +1,32 @@
-# Slang ![/images/micro128x128.png]
+<img align="left" src="/images/icon48.png">
 
-<img align="left" src="/images/icon.png">
+# Slang - Text to Speech
 
-#### A chrome extension that converts any text on the web to speech
+<img align="left" src="/images/icon48.png">
 
-> This is my final project to the 2020 version of the Harvard's [CS50x](https://cs50.harvard.edu/x/2020/) course.
+### A chrome extension that converts any selected text on the web to speech
+
+> This is my final project to the [2020 version](https://cs50.harvard.edu/x/2020/) of the Harvard's [CS50x](https://cs50.harvard.edu/x/) course.
 
 ### Topics:
   - [Description](#description)
-  - [Functionalities](#functionalities)
   - [Demo](#demo)
   - [Download](#download)
 
-#### Description
+## Description
 
-Slang is a free tool that converts text of websites to speech. It can increase your productivity, help you study more effectively and is a must have if you are learning a new language.
+  - #### Functionalities
+    Slang reads out loud text from any website. It has a pop-up where it displays and updates the text while it's reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition!
 
-Slang shows the text in the pop-up synchronized with the speech, so that you can read along, regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition!
+  - #### How to use
+    To make Slang speak, select the text you want to hear and hit the play button in the pop-up, or right-click the selected text and click speak.
+    Through the pop-up you can choose from 21 voices in 14 languages and change it's volume, rate and pitch.
 
-It is very simple to use, just select the text you want to hear, open the pop-up and click on the play button or right click on the selected text and click on speak. You can also type or paste in the pop-up whatever you want to be spoken. You can change the volume, rate, pitch and voice.
+## Demo
 
-Supports 14 languages, some in different accents, totaling 21 different voices.
+[Youtube video](https://youtu.be/RYb9BEUVTdY)
 
-#### Functionalities
-
-
-
-#### Demo
-
-Youtube video
-
-#### Download
+## Download
 
 Slang is available to download at the [Chrome Web Store](https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh).
 

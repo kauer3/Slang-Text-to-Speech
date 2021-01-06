@@ -1,5 +1,6 @@
 window.onload = function () {
     chrome.storage.local.set({ timeout: false, speaking: false });
+    createContextMenu()
 }
 
 //# Initialize Speech API
@@ -16,7 +17,7 @@ chrome.tabs.onActivated.addListener(() => {
 
 function sendAlert() {
     if (!alertSent) {
-        chrome.notifications.create({ type: "basic", title: "Warning!", message: 'This website does not allow Slang to get the selected text trought the pop-up. Instead, right click the selected text and press "Speak".', iconUrl: "micro.png" });
+        chrome.notifications.create({ type: "basic", title: "Warning!", message: 'This website does not allow Slang to get the selected text trought the pop-up. Instead, right click the selected text and press "Speak".', iconUrl: "icon.png" });
         alertSent = true;
     }
     return;
@@ -86,7 +87,6 @@ function keepPaused() {
     });
 }
 
-//# Speak function
 function speak(text, updatedText, nextSentence) {
     
     if (text) {
@@ -116,26 +116,36 @@ function speak(text, updatedText, nextSentence) {
         }
 
         // Get rate, pitch and volume from storage and set it to the API
-        chrome.storage.sync.get(["rate"], function(result) {
-            speechSettings.rate = result.rate;
+        chrome.storage.sync.get(["rate"], function (result) {
+            if (typeof result.rate !== 'undefined' && result.rate  !== undefined) {
+                speechSettings.rate = result.rate/10;
+            }
         });
-        chrome.storage.sync.get(["pitch"], function(result) {
-            speechSettings.pitch = result.pitch;
+        chrome.storage.sync.get(["pitch"], function (result) {
+            if (typeof result.pitch !== 'undefined' && result.pitch !== undefined) {
+                speechSettings.pitch = result.pitch/10;
+            }
         });
-        chrome.storage.sync.get(["volume"], function(result) {
-            speechSettings.volume = result.volume;
+        chrome.storage.sync.get(["volume"], function (result) {
+            if (typeof result.volume !== 'undefined' && result.volume !== undefined) {
+                speechSettings.volume = result.volume/10;
+            }
         });
         
         //... Get selected voice from storage...
         chrome.storage.sync.get(["voice"], function (result) {
             // Voices array
             const voices = synth.getVoices();
-            // Loop trhough voices
-            for (let i = 0; i < voices.length; i++) {
-                if (voices[i].name === result.voice) {
-                    //...and set it to the API
-                    speechSettings.voice = voices[i];
-                    break;
+            if (typeof result.voice === 'undefined' || result.voice === undefined) {
+                speechSettings.voice = voices[3];
+            } else {
+                // Loop through voices
+                for (let i = 0; i < voices.length; i++) {
+                    if (voices[i].name === result.voice) {
+                        //...and set it to the API
+                        speechSettings.voice = voices[i];
+                        break;
+                    }
                 }
             }
             //! Speak method needs to be called inside the (asynchronous) callback functions, otherwise it would run before them!

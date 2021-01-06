@@ -1,10 +1,10 @@
-chrome.runtime.onInstalled.addListener(function() {
+function createContextMenu() {
     chrome.contextMenus.create({
         "title": 'Speak "%s"',
         "contexts": ["selection"],
         "id": "readPage"
     }); 
-});
+};
 
 chrome.contextMenus.onClicked.addListener(function (context) {
     chrome.tabs.executeScript({ code: "window.getSelection().toString();" }, function (selection) {

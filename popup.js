@@ -148,6 +148,8 @@ document.querySelector("#stopbtn").onclick = () => {
 chrome.runtime.onMessage.addListener(
     (request) => {
         chrome.storage.local.get(["popupEdited"], function (popup) {
+            console.log(request);
+            console.log(request.sentence);
             if (!popup.popupEdited) {
                 let spoken = request.sentence.replace(/‎+/g, "<br>").replaceAll(" ", " ");
                 // If speech is not complete, update text
@@ -279,14 +281,16 @@ window.onload = function () {
 
     // Update voice
     chrome.storage.sync.get(["voice"], function (result) {
+        const len = voiceSelect.options.length;
         if (result.voice) {
-            const len = voiceSelect.options.length;
             for (let i = 0; i < len; i++) {
                 if (voiceSelect.options[i].getAttribute("data-name") === result.voice) {
                     voiceSelect.options[i].setAttribute("selected", "selected");
                     break;
                 }
             }
+        } else {
+            voiceSelect.options[3].setAttribute("selected", "selected");
         }
     });
 
