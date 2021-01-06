@@ -1,13 +1,13 @@
 # Slang ![/images/icon128.png]
-###### A chrome extension that converts any text on the web to speech
+#### A chrome extension that converts any text on the web to speech
 
 > This is my final project to the 2020 version of the Harvard's [CS50x](https://cs50.harvard.edu/x/2020/) course.
 
 ### Topics:
-				-[Description](#description)
-				-[Functionalities](#functionalities)
-				-[Demo](#demo)
-				-[Download](#download)
+		-[Description](#description)
+		-[Functionalities](#functionalities)
+		-[Demo](#demo)
+		-[Download](#download)
 
 #### Description
 
