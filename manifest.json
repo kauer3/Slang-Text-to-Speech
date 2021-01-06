@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Slang - Listen to the Web",
-    "version": "0.2",
+    "name": "Slang - Text to Speech",
+    "version": "0.3",
     "description": "Convert the selected text to speech.",
     "permissions": ["contextMenus", "activeTab", "storage", "notifications"],
     "background": {
@@ -9,12 +9,12 @@
         "persintent": false
     },
     "icons": {
-        "128": "micro.png", 
-        "48": "micro.png",
-        "16": "micro.png"
+        "128": "icon.png", 
+        "48": "icon.png",
+        "16": "icon.png"
     },
     "browser_action": {
-        "default_icon": "micro.png",
+        "default_icon": "icon.png",
         "default_title": "Slang",
         "default_popup": "popup.html"
     }

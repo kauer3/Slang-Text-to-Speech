@@ -1,8 +1,7 @@
 # Slang ![/images/micro128x128.png]
 
-<img align="left" src="micro128x128.png">
+<img align="left" src="/images/icon.png">
 
-# Resume application project
 #### A chrome extension that converts any text on the web to speech
 
 > This is my final project to the 2020 version of the Harvard's [CS50x](https://cs50.harvard.edu/x/2020/) course.
