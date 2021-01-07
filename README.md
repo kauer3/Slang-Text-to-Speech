@@ -1,6 +1,6 @@
-<h1>Slang - Text to Speech</h1>
+<h1 align="center">Slang - Text to Speech</h1>
 
-<img align="left" src="/images/icon80.png">
+<img align="left" src="/images/readme/icon80.png">
 
 ### A chrome extension that converts any selected text on the web to speech
 
@@ -14,8 +14,11 @@
   - [Demo](#demo)
   - [Download](#download)
 
+---
+
 ## Description
 
+<img align="right" src="/images/readme/popup.png">
   - #### Functionalities
     Slang reads out loud text from any website. It has a pop-up where it displays and updates the text while it's reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition!
 
