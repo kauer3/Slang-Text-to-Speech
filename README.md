@@ -16,9 +16,8 @@
 
 ---
 
-<img align="right" src="/images/readme/popup.jpg">
-
 ## Description
+<img align="right" src="/images/readme/popup.jpg">
 
   - #### Functionalities
     Slang reads out loud text from any website. It has a pop-up where it displays and updates the text while it's reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition!
