@@ -1,6 +1,6 @@
 <h1>Slang - Text to Speech</h1>
 
-<img align="left" src="/images/icon60.png">
+<img align="left" src="/images/icon80.png">
 
 ### A chrome extension that converts any selected text on the web to speech
 
