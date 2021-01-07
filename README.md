@@ -2,7 +2,7 @@
 
 <img align="left" src="/images/icon60.png">
 
-## A chrome extension that converts any selected text on the web to speech
+### A chrome extension that converts any selected text on the web to speech
 
 > This is my final project to the [2020 version](https://cs50.harvard.edu/x/2020/) of the Harvard's [CS50x](https://cs50.harvard.edu/x/) course.
 ---
