@@ -12,7 +12,7 @@
     - [Functionalities](#functionalities)
     - [How to use](#how-to-use)
   - [Demo](#demo)
-  - [Download](#download)
+  - [Download](#<img src="/images/readme/slang-example.gif">)
 
 ---
 
@@ -28,9 +28,11 @@
 
 ## Demo
 
-<img src="/images/readme/slang-example.gif">
+<p align="center">
+  <img src="/images/readme/slang-example.gif">
+</p>
 
-[Youtube video](https://youtu.be/RYb9BEUVTdY)
+Also, check out the [Youtube demo video](https://youtu.be/RYb9BEUVTdY)!
 
 ## Download
 
