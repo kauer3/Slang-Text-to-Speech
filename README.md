@@ -13,7 +13,7 @@
     - [How to use](#how-to-use)
   - [Demo](#demo)
   - [Download](#download)
-    - [Video](#Also, check out the [Youtube demo video])
+    - [Video](#Also, check out the [Youtube demo video](https://youtu.be/RYb9BEUVTdY\)!)
 
 ---
 
