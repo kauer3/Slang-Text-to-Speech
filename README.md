@@ -11,9 +11,9 @@
   - [Description](#description)
     - [Functionalities](#functionalities)
     - [How to use](#how-to-use)
-  - [Demo](#demo)
+  - [Demo]('#demo')
   - [Download](#download)
-    - [Video](#also,-check-out-the-[Youtube-demo-video](https://youtu.be/RYb9BEUVTdY\)!)
+    - [Video](#also,-check-out-the-[Youtube-demo-video](https://youtu.be/RYb9BEUVTdY)!)
 
 ---
 
