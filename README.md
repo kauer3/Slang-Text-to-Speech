@@ -11,9 +11,9 @@
   - [Description](#description)
     - [Functionalities](#functionalities)
     - [How to use](#how-to-use)
-  - [Demo]('#demo')
+  - [Demo](#demo)
   - [Download](#download)
-    - [Video](#also,-check-out-the-[Youtube-demo-video](https://youtu.be/RYb9BEUVTdY)!)
+    - [Video](#Also,-check-out-the-<a-href="https://youtu.be/RYb9BEUVTdY">Youtube-demo-video</a>!)
 
 ---
 
@@ -33,7 +33,7 @@
   <img src="/images/readme/slang-example.gif">
 </p>
 
-##### Also, check out the [Youtube demo video](https://youtu.be/RYb9BEUVTdY)!
+##### Also, check out the <a href="https://youtu.be/RYb9BEUVTdY">Youtube demo video</a>!
 
 ## Download
 
