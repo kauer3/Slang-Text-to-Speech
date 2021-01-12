@@ -11,9 +11,9 @@
   - [Description](#description)
     - [Functionalities](#functionalities)
     - [How to use](#how-to-use)
-  - [Demo](#demo)
+  - [Demo](#Demo)
   - [Download](#download)
-    - [Video](#Also, check out the [Youtube demo video](https://youtu.be/RYb9BEUVTdY\)!)
+    - [Video](#also, check out the [Youtube demo video](https://youtu.be/RYb9BEUVTdY\)!)
 
 ---
 
@@ -21,7 +21,7 @@
 <img align="right" src="/images/readme/popup.png">
 
   - #### Functionalities
-    Slang reads out loud text from any website. It has a pop-up where it displays and updates the text while it's reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition!
+    Slang reads out loud text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition!
 
   - #### How to use
     To make Slang speak, select the text you want to hear and hit the play button in the pop-up, or right-click the selected text and click speak. You can also type the text in the popup and hit play.
@@ -33,7 +33,7 @@
   <img src="/images/readme/slang-example.gif">
 </p>
 
-###### Also, check out the [Youtube demo video](https://youtu.be/RYb9BEUVTdY)!
+##### Also, check out the [Youtube demo video](https://youtu.be/RYb9BEUVTdY)!
 
 ## Download
 
