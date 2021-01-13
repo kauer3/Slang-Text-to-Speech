@@ -41,10 +41,12 @@
 
 <p align="center">
   <img src="/images/readme/slang-example.gif">
+  <p align="center">How to use Slang through the pop-up...</p><br>
   <img src="/images/readme/context-menu.jpg">
-</p>
+  <p align="center">...and through the right click menu.</p>
+</p><br>
 
-##### Also, check out the <a href="https://youtu.be/RYb9BEUVTdY">Youtube demo video</a>!
+#### Also, check out the [Youtube demo video](https://youtu.be/RYb9BEUVTdY)!
 
 ## Download
 
