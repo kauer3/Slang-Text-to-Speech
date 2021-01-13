@@ -44,7 +44,7 @@
   <em align="center">How to use Slang through the pop-up...</em><br><br>
   <img src="/images/readme/context-menu.jpg"><br>
   <em align="center">...and through the right click menu.</em>
-</p><br>
+</p>
 
 
 #### Also, check out the [Youtube demo video](https://youtu.be/RYb9BEUVTdY)!
