@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="/images/readme/slang-example.gif">
-  <img src="/images/readme/context-menu.gif">
+  <img src="/images/readme/context-menu.jpg">
 </p>
 
 ##### Also, check out the <a href="https://youtu.be/RYb9BEUVTdY">Youtube demo video</a>!
