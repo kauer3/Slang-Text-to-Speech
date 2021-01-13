@@ -40,11 +40,12 @@
 ## Demo
 
 <p align="center">
-  <img src="/images/readme/slang-example.gif">
-  <p align="center">How to use Slang through the pop-up...</p><br>
-  <img src="/images/readme/context-menu.jpg">
-  <p align="center">...and through the right click menu.</p>
+  <img src="/images/readme/slang-example.gif"><br>
+  <em align="center">How to use Slang through the pop-up...</em><br><br>
+  <img src="/images/readme/context-menu.jpg"><br>
+  <em align="center">...and through the right click menu.</em>
 </p><br>
+
 
 #### Also, check out the [Youtube demo video](https://youtu.be/RYb9BEUVTdY)!
 
