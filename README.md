@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="http://img.shields.io/static/v1?label=Platform&message=Google%20Chrome&color=e37e27&style=for-the-badge&logo=google-chrome&logoColor=e37e27"/>
-  <img src="https://img.shields.io/static/v1?label=API&message=Web%20Speech&color=405cdb&style=for-the-badge&logo=mdn-web-docs&logoColor=405cdb"/>
-  <img src="https://img.shields.io/static/v1?label=Framework&message=Bootstrap&color=8f42d4&style=for-the-badge&logo=bootstrap&logoColor=8f42d4"/>
-  <img src="http://img.shields.io/static/v1?label=Javascript&message=ES6&color=fce10f&style=for-the-badge&logo=javascript&logoColor=fce10f"/>
-  <img src="http://img.shields.io/static/v1?label=Version&message=v0.4&color=60e6e1&style=for-the-badge&logo=v&logoColor=60e6e1"/>
-  <img src="http://img.shields.io/static/v1?label=Status&message=Available%20to%20download&color=c2e622&style=for-the-badge&logo=checkmarx&logoColor=c2e622"/>
-  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=962930&style=for-the-badge&logo=lospec&logoColor=962930"/>
+  <a href="https://www.google.com/chrome/"><img src="http://img.shields.io/static/v1?label=Platform&message=Google%20Chrome&color=e37e27&style=for-the-badge&logo=google-chrome&logoColor=e37e27"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API"><img src="https://img.shields.io/static/v1?label=API&message=Web%20Speech&color=405cdb&style=for-the-badge&logo=mdn-web-docs&logoColor=405cdb"/></a>
+  <a href"https://getbootstrap.com/"><img src="https://img.shields.io/static/v1?label=Framework&message=Bootstrap&color=8f42d4&style=for-the-badge&logo=bootstrap&logoColor=8f42d4"/></a>
+  <a href"https://www.javascript.com/"><img src="http://img.shields.io/static/v1?label=Javascript&message=ES6&color=fce10f&style=for-the-badge&logo=javascript&logoColor=fce10f"/></a>
+  <a href"https://github.com/kauer3/Slang-Text-to-Speech"><img src="http://img.shields.io/static/v1?label=Version&message=v0.4&color=60e6e1&style=for-the-badge&logo=v&logoColor=60e6e1"/></a>
+  <a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh"><img src="http://img.shields.io/static/v1?label=Status&message=Available%20to%20download&color=c2e622&style=for-the-badge&logo=checkmarx&logoColor=c2e622"/></a>
+  <a href"LICENSE"><img src="http://img.shields.io/static/v1?label=License&message=MIT&color=962930&style=for-the-badge&logo=lospec&logoColor=962930"/></a>
 </p>
 <br>
 
@@ -37,6 +37,8 @@
     To make Slang speak, select the text you want to hear and hit the play button in the pop-up, or right-click the selected text and click speak. You can also type the text in the popup and hit play.
     Through the pop-up you can choose from 21 voices in 14 languages and change it's volume, rate and pitch.
 
+---
+
 ## Demo
 
 <p align="center">
@@ -48,6 +50,8 @@
 
 
 #### Also, check out the [Youtube demo video](https://youtu.be/RYb9BEUVTdY)!
+
+---
 
 ## Download
 
