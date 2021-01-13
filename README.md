@@ -30,19 +30,27 @@
 ## Description
 <img align="right" src="/images/readme/popup.png">
 
-  - #### Functionalities
+  - #### How it works
     Slang reads out loud text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition!
 
-  - #### How to use
+  - #### How to use it
     To make Slang speak, select the text you want to hear and hit the play button in the pop-up, or right-click the selected text and click speak. You can also type the text in the popup and hit play.
     Through the pop-up you can choose from 21 voices in 14 languages and change it's volume, rate and pitch.
+
+<img align="right" src="/images/readme/voices.gif">
+
+  - #### Features
+    - todo
+    - list
+    - of
+    - features
 
 ---
 
 ## Demo
 
-<img align="left" src="/images/readme/slang-example.gif"><img align="right" src="/images/readme/context-menu.jpg">
-<em align="center">How to use Slang through the pop-up...   ...and through the right click menu.</em>
+<!--<img align="left" src="/images/readme/slang-example.gif"><img align="right" src="/images/readme/context-menu.jpg">-->
+<!--<em align="center">How to use Slang through the pop-up...   ...and through the right click menu.</em>-->
 
 
 #### Also, check out the [Youtube demo video](https://youtu.be/RYb9BEUVTdY)!
