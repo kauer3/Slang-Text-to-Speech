@@ -29,7 +29,7 @@
 ---
 
 ## Description
-<img align="right" src="/images/readme/popup.png">
+<img align="right" src="/images/readme/popup2.png">
 
   - ### How it works
     Slang reads out loud text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition! TODO talk about saving time letting slang read
