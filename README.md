@@ -9,7 +9,9 @@
 </p>
 <br>
 
-<img align="center" src="/images/readme/title.png">
+---
+
+<img align="center" src="/images/readme/title-erase-light.png">
 
 ---
 
@@ -58,8 +60,12 @@
 ## Demo
 <p align="center">
   <img align="center" src="/images/readme/popup.gif">
-  <em align="center">Example of how to use Slang through the pop-up...</em><br>
+  <em align="center">Example of how to use Slang through the pop-up...</em>
+  <br>
+  <br>
   <img align="center" src="/images/readme/context-menu.gif">
+  <br>
+  <br>
   <em align="center">...and through the right click menu.</em><br>
 </p>
 
