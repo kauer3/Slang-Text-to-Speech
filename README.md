@@ -9,7 +9,9 @@
 </p>
 <br>
 
-<h1 align="center">Slang - Text to Speech</h1>
+<img align="center" src="/images/readme/title.png">
+
+---
 
 <img align="left" src="/images/readme/icon80.png">
 
@@ -31,7 +33,7 @@
 ## Description
 <img align="right" src="/images/readme/popup2.png">
 
-  - ### How it works
+  - ### What is it?
     Slang reads out loud text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition! TODO talk about saving time letting slang read
 
   - ### How to use it
@@ -54,11 +56,12 @@
 ---
 
 ## Demo
-
-<img align="center" src="/images/readme/popup.gif">
-<em align="center">Example of how to use Slang through the pop-up...</em><br>
-<img align="center" src="/images/readme/context-menu.gif">
-<em align="center">...and through the right click menu.</em><br>
+<p align="center">
+  <img align="center" src="/images/readme/popup.gif">
+  <em align="center">Example of how to use Slang through the pop-up...</em><br>
+  <img align="center" src="/images/readme/context-menu.gif">
+  <em align="center">...and through the right click menu.</em><br>
+</p>
 
 
 #### Also, check out the [Youtube video](https://youtu.be/RYb9BEUVTdY) for a more complete (with sound) demo!
