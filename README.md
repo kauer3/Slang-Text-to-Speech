@@ -34,7 +34,7 @@
 ---
 
 ## Description
-<img align="right" src="/images/readme/popup4.png">
+<img align="right" src="/images/readme/popup2.png">
 
   - ### What is it?
     Slang is a chrome extension that reads aloud any text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition! And of course, Slang can also be very useful to save your time if you let it reading while you do something else.
@@ -42,9 +42,13 @@
   - ### How to use it?
     To make Slang speak, select the text you want to hear, open the pop-up and hit the play button, or right-click the selected text and click speak. You can also type the text directly in the popup and click play. All speech settings can be edited through the popup.
 
-<img align="right" src="/images/readme/voices.gif">
+<img align="right" src="/images/readme/blankspace50.png">
+<img align="right" src="/images/readme/blankspace50.png">
 
   - ### Features:
+
+<img align="right" src="/images/readme/voices.gif">
+
     - Easy access via pop-up or right-click menu.
     - Speak any text selected on the internet or written directly in the pop-up.
     - If there's text selected in the browser and another text was written in the pop-up, Slang is smart enough to decide which one to speak.
@@ -70,7 +74,7 @@
   <br>
   <img src="/images/readme/popup.gif">
   <br>
-  <em>Slang wont stop working even if you change or close the tab.</em>
+  <em>Slang wont stop speaking even if you change or close the tab.</em>
   <br>
   <br>
 </p>
@@ -82,6 +86,8 @@
 ## Download
 
 [Slang is available to download at the Chrome Web Store](https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh).
+
+---
 
 ## License
 
