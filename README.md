@@ -42,7 +42,7 @@
   - ### How to use it?
     To make Slang speak, select the text you want to hear, open the pop-up and hit the play button, or right-click the selected text and click speak. You can also type the text directly in the popup and click play. All speech settings can be edited through the popup.
 
-<img align="right" src="/images/readme/blankspace200.png">
+<img align="right" src="/images/readme/blankspace120.png">
 <img align="right" src="/images/readme/voices.gif">
 
   - ### Features:
@@ -69,14 +69,11 @@
   <br>
   <em>Example of how to use Slang through the right click menu.</em><br>
   <br>
-  <br>
   <img src="/images/readme/popup.gif">
   <br>
   <em>Example of how to use Slang through the pop-up...</em>
   <br>
-  <br>
 </p>
-
 
 #### Also, check out the [Youtube video](https://youtu.be/RYb9BEUVTdY) for a more complete demo!
 
