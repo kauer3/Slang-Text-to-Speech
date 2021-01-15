@@ -11,12 +11,12 @@
 ---
 ---
 
-<img align="center" src="/images/readme/title-mask-lighter.png">
+<img align="center" src="/images/readme/title-mask-light.png">
 
 ---
 ---
 
-<img align="left" src="/images/readme/icon80.png">
+<img align="left" src="/images/readme/icon70.png">
 
 ### A chrome extension that converts any selected text on the web to speech
 
@@ -34,7 +34,7 @@
 ---
 
 ## Description
-<img align="right" src="/images/readme/popup2.png">
+<img align="right" src="/images/readme/popup3.png">
 
   - ### What is it?
     Slang reads out loud text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition! TODO talk about saving time letting slang read
@@ -73,7 +73,7 @@
 </p>
 
 
-#### Also, check out the [Youtube video](https://youtu.be/RYb9BEUVTdY) for a more complete (with sound) demo!
+#### Also, check out the [Youtube video](https://youtu.be/RYb9BEUVTdY) for a more complete () demo!
 
 ---
 
