@@ -1,8 +1,7 @@
 ---
 ---
 
-<img align="center" src="/images/readme/title-mask-light.png">
-<br>
+<img align="center" src="/images/readme/title.png">
 
 <p align="center">
   <a href="https://www.google.com/chrome/"><img src="http://img.shields.io/static/v1?label=Platform&message=Google%20Chrome&color=e37e27&style=for-the-badge&logo=google-chrome&logoColor=e37e27"/></a>
@@ -35,7 +34,7 @@
 ---
 
 ## Description
-<img align="right" src="/images/readme/popup2.png">
+<img align="right" src="/images/readme/popup4.png">
 
   - ### What is it?
     Slang is a chrome extension that reads aloud any text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition! And of course, Slang can also be very useful to save your time if you let it reading while you do something else.
@@ -43,14 +42,11 @@
   - ### How to use it?
     To make Slang speak, select the text you want to hear, open the pop-up and hit the play button, or right-click the selected text and click speak. You can also type the text directly in the popup and click play. All speech settings can be edited through the popup.
 
-<img align="right" src="/images/readme/blankspace80.png">
+<img align="right" src="/images/readme/voices.gif">
 
   - ### Features:
     - Easy access via pop-up or right-click menu.
     - Speak any text selected on the internet or written directly in the pop-up.
-
-    <img align="right" src="/images/readme/voices.gif">
-
     - If there's text selected in the browser and another text was written in the pop-up, Slang is smart enough to decide which one to speak.
     - While speaking, updates the text in the pop-up sentence by sentence, highlighting the sentence being spoken.
     - Keep speaking and updating the text in the popup even if you change to another page/tab, or close the original tab.
