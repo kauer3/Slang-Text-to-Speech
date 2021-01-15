@@ -7,12 +7,13 @@
   <a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh"><img src="http://img.shields.io/static/v1?label=Status&message=Available%20to%20download&color=c2e622&style=for-the-badge&logo=checkmarx&logoColor=c2e622"/></a>
   <a href"LICENSE"><img src="http://img.shields.io/static/v1?label=License&message=MIT&color=962930&style=for-the-badge&logo=lospec&logoColor=962930"/></a>
 </p>
-<br>
 
 ---
+---
 
-<!--<img align="center" src="/images/readme/title-erase-light.png">-->
+<img align="center" src="/images/readme/title-mask-lighter.png">
 
+---
 ---
 
 <img align="left" src="/images/readme/icon80.png">
