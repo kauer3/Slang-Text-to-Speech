@@ -43,15 +43,13 @@
   - ### How to use it?
     To make Slang speak, select the text you want to hear, open the pop-up and hit the play button, or right-click the selected text and click speak. You can also type the text directly in the popup and click play. All speech settings can be edited through the popup.
 
-<p align="right">
-  <img align="right" src="/images/readme/blankspace80.png">
-  <img align="right" src="/images/readme/voices.gif">
-</P>
+<img align="right" src="/images/readme/blankspace80.png">
 
   - ### Features:
     - Easy access via pop-up or right-click menu.
     - Speak any text selected on the internet or written directly in the pop-up.
     - If there's text selected in the browser and another text was written in the pop-up, Slang is smart enough to decide which one to speak.
+<img align="right" src="/images/readme/voices.gif">
     - While speaking, updates the text in the pop-up sentence by sentence, highlighting the sentence being spoken.
     - Keep speaking and updating the text in the popup even if you change to another page/tab, or close the original tab.
     - When not speaking, the pop-up always shows the last spoken or edited text, even if the browser or computer has been restarted.
