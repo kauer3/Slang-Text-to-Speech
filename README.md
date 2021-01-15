@@ -3,9 +3,6 @@
 
 <img align="center" src="/images/readme/title-mask-light.png">
 
----
----
-
 <p align="center">
   <a href="https://www.google.com/chrome/"><img src="http://img.shields.io/static/v1?label=Platform&message=Google%20Chrome&color=e37e27&style=for-the-badge&logo=google-chrome&logoColor=e37e27"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API"><img src="https://img.shields.io/static/v1?label=API&message=Web%20Speech&color=405cdb&style=for-the-badge&logo=mdn-web-docs&logoColor=405cdb"/></a>
@@ -15,6 +12,9 @@
   <a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh"><img src="http://img.shields.io/static/v1?label=Status&message=Available%20to%20download&color=c2e622&style=for-the-badge&logo=checkmarx&logoColor=c2e622"/></a>
   <a href"LICENSE"><img src="http://img.shields.io/static/v1?label=License&message=MIT&color=962930&style=for-the-badge&logo=lospec&logoColor=962930"/></a>
 </p>
+
+---
+---
 
 <img align="left" src="/images/readme/icon70.png">
 
@@ -42,10 +42,7 @@
   - ### How to use it?
     To make Slang speak, select the text you want to hear, open the pop-up and hit the play button, or right-click the selected text and click speak. You can also type the text directly in the popup and click play. All speech settings can be edited through the popup.
 
-<img align="right" src="/images/readme/blankspace50.png">
-<img align="right" src="/images/readme/blankspace50.png">
-<img align="right" src="/images/readme/blankspace50.png">
-<img align="right" src="/images/readme/blankspace50.png">
+<img align="right" src="/images/readme/blankspace200.png">
 <img align="right" src="/images/readme/voices.gif">
 
   - ### Features:
