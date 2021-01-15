@@ -2,6 +2,7 @@
 ---
 
 <img align="center" src="/images/readme/title-mask-light.png">
+<br>
 
 <p align="center">
   <a href="https://www.google.com/chrome/"><img src="http://img.shields.io/static/v1?label=Platform&message=Google%20Chrome&color=e37e27&style=for-the-badge&logo=google-chrome&logoColor=e37e27"/></a>
@@ -42,8 +43,10 @@
   - ### How to use it?
     To make Slang speak, select the text you want to hear, open the pop-up and hit the play button, or right-click the selected text and click speak. You can also type the text directly in the popup and click play. All speech settings can be edited through the popup.
 
-<img align="right" src="/images/readme/blankspace120.png">
-<img align="right" src="/images/readme/voices.gif">
+<p align="right">
+  <img align="right" src="/images/readme/blankspace80.png">
+  <img align="right" src="/images/readme/voices.gif">
+</P>
 
   - ### Features:
     - Easy access via pop-up or right-click menu.
@@ -62,16 +65,17 @@
 <p align="center">
   <img src="/images/readme/popup.gif">
   <br>
-  <em>Example of how to use Slang through the pop-up</em>
+  <em>Example of how to use Slang through the pop-up...</em>
   <br>
   <br>
   <img src="/images/readme/context-menu.gif">
   <br>
-  <em>Example of how to use Slang through the right click menu.</em><br>
+  <em>...and through the right click menu.</em><br>
   <br>
   <img src="/images/readme/popup.gif">
   <br>
-  <em>Example of how to use Slang through the pop-up...</em>
+  <em>Slang wont stop working even if you change or close the tab.</em>
+  <br>
   <br>
 </p>
 
@@ -82,3 +86,6 @@
 ## Download
 
 [Slang is available to download at the Chrome Web Store](https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh).
+
+## License
+
