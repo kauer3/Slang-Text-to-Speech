@@ -44,6 +44,8 @@
 <ul>
   <li>Slang is a chrome extension that reads aloud any text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition! And of course, Slang can also be very useful to save your time if you let it reading for you while you do something else.</li>
 </ul>
+<br>
+<br>
 </details>
 
 <details>
@@ -53,8 +55,6 @@
 <ul>
   <li>To make Slang speak, select the text you want to hear, open the pop-up and hit the play button, or right-click the selected text and click speak. You can also type the text directly in the po-pup and click play. All speech settings can be edited through the pop-up.</li>
 </ul>
-<br>
-<br>
 <br>
 <br>
 <br>
