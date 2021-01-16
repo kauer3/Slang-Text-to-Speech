@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img align="center" src="/images/readme/title.png">
+  <img align="center" src="/images/readme/title-fade.png">
 </p>
 
 <p align="center">
@@ -36,30 +36,66 @@
 ---
 
 ## Description
-<img align="right" src="/images/readme/popup2.png">
 
-  - ### What is it?
-    Slang is a chrome extension that reads aloud any text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition! And of course, Slang can also be very useful to save your time if you let it reading while you do something else.
+<details>
+<summary>What is it?</summary>
+<img align="right" src="/images/icon.png">
+<br>
+<ul>
+  <li>Slang is a chrome extension that reads aloud any text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech (see image on the right), so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition! And of course, Slang can also be very useful to save your time if you let it reading for you while you do something else.</li>
+</ul>
+</details>
 
-  - ### How to use it?
-    To make Slang speak, select the text you want to hear, open the pop-up and hit the play button, or right-click the selected text and click speak. You can also type the text directly in the popup and click play. All speech settings can be edited through the popup.
+  <!--- ### What is it?-->
+    <!--Slang is a chrome extension that reads aloud any text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition! And of course, Slang can also be very useful to save your time if you let it reading while you do something else.-->
 
-<img align="right" src="/images/readme/blankspace50.png">
+<details>
+<summary>How to use it?</summary>
+<img align="right" src="/images/readme/popup-noborder.png">
+<br>
+<ul>
+  <li>To make Slang speak, select the text you want to hear, open the pop-up and hit the play button, or right-click the selected text and click speak. You can also type the text directly in the popup and click play. All speech settings can be edited through the popup.</li>
+</ul>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</details>
 
-  - ### Features:
+  <!--- ### How to use it?-->
+    <!--To make Slang speak, select the text you want to hear, open the pop-up and hit the play button, or right-click the selected text and click speak. You can also type the text directly in the popup and click play. All speech settings can be edited through the popup.-->
 
+<!--<img align="right" src="/images/readme/blankspace50.png">-->
 
-    - Easy access via pop-up or right-click menu.
-    - Speak any text selected on the internet or written directly in the pop-up.
-    <img align="right" src="/images/readme/voices.gif">
+<details>
+<summary>Features:</summary>
+<br>
+<img align="right" src="/images/readme/voices.gif">
+<ul>
+  <li>Easy access via pop-up or right-click menu.</li>
+  <li>Speak any text selected on the internet or written directly in the pop-up.</li>
+  <li>If there's text selected in the browser and another text was written in the pop-up, Slang is smart enough to decide which one to speak.</li>
+  <li>While speaking, updates the text in the pop-up sentence by sentence, highlighting the sentence being spoken.</li>
+  <li>Keep speaking and updating the text in the popup even if you change to another page/tab, or close the original tab.</li>
+  <li>When not speaking, the pop-up always shows the last spoken or edited text, even if the browser or computer has been restarted.</li>
+  <li>When a speech is paused, Slang saves it so you can pick up where you left off later, even if the browser or computer has been restarted.</li>
+  <li>21 voices in 14 languages available.</li>
+  <li>Customizable speed and pitch.</li>
+</ul>
 
-    - If there's text selected in the browser and another text was written in the pop-up, Slang is smart enough to decide which one to speak.
-    - While speaking, updates the text in the pop-up sentence by sentence, highlighting the sentence being spoken.
-    - Keep speaking and updating the text in the popup even if you change to another page/tab, or close the original tab.
-    - When not speaking, the pop-up always shows the last spoken or edited text, even if the browser or computer has been restarted.
-    - When a speech is paused, Slang saves it so you can pick up where you left off later, even if the browser or computer has been restarted.
-    - 21 voices in 14 languages available.
-    - Customizable speed and pitch.
+  <!--- ### Features:-->
+    <!--- Easy access via pop-up or right-click menu.-->
+    <!--- Speak any text selected on the internet or written directly in the pop-up.-->
+    <!--- If there's text selected in the browser and another text was written in the pop-up, Slang is smart enough to decide which one to speak.-->
+    <!--- While speaking, updates the text in the pop-up sentence by sentence, highlighting the sentence being spoken.-->
+    <!--- Keep speaking and updating the text in the popup even if you change to another page/tab, or close the original tab.-->
+    <!--- When not speaking, the pop-up always shows the last spoken or edited text, even if the browser or computer has been restarted.-->
+    <!--- When a speech is paused, Slang saves it so you can pick up where you left off later, even if the browser or computer has been restarted.-->
+    <!--- 21 voices in 14 languages available.-->
+    <!--- Customizable speed and pitch.-->
 
 ---
 
