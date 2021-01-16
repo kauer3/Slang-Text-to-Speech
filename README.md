@@ -48,7 +48,7 @@
 
 <details>
 <summary>How to use it?</summary>
-<img align="right" src="/images/readme/popup-sideborder.png">
+<img align="right" src="/images/readme/popup-description.png">
 <br>
 <ul>
   <li>To make Slang speak, select the text you want to hear, open the pop-up and hit the play button, or right-click the selected text and click speak. You can also type the text directly in the po-pup and click play. All speech settings can be edited through the pop-up.</li>
