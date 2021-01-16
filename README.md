@@ -70,9 +70,9 @@
 <details>
 <summary>Features:</summary>
 <br>
-<img align="right" src="/images/readme/voices.gif">
 <ul>
   <li>Easy access via pop-up or right-click menu.</li>
+  <img align="right" src="/images/readme/voices.gif">
   <li>Speak any text selected on the internet or written directly in the pop-up.</li>
   <li>If there's text selected in the browser and another text was written in the pop-up, Slang is smart enough to decide which one to speak.</li>
   <li>While speaking, updates the text in the pop-up sentence by sentence, highlighting the sentence being spoken.</li>
@@ -96,10 +96,6 @@
   <img src="/images/readme/context-menu.gif">
   <br>
   <em>...and through the right click menu.</em><br>
-  <br>
-  <img src="/images/readme/popup.gif">
-  <br>
-  <em>Slang wont stop speaking even if you change or close the tab.</em>
   <br>
   <br>
 </p>
