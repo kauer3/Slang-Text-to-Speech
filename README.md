@@ -1,10 +1,3 @@
----
----
-
-<p align="center">
-  <img align="center" src="/images/readme/title-mask-fade.png">
-</p>
-
 <p align="center">
   <a href="https://www.google.com/chrome/"><img src="http://img.shields.io/static/v1?label=Platform&message=Google%20Chrome&color=e37e27&style=for-the-badge&logo=google-chrome&logoColor=e37e27"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API"><img src="https://img.shields.io/static/v1?label=API&message=Web%20Speech&color=405cdb&style=for-the-badge&logo=mdn-web-docs&logoColor=405cdb"/></a>
@@ -13,6 +6,13 @@
   <a href"https://github.com/kauer3/Slang-Text-to-Speech"><img src="http://img.shields.io/static/v1?label=Version&message=v0.4&color=60e6e1&style=for-the-badge&logo=v&logoColor=60e6e1"/></a>
   <a href="https://chrome.google.com/webstore/detail/slang-text-to-speech/enkmbkhkbdiaafkmofbmdahclajelgfh"><img src="http://img.shields.io/static/v1?label=Status&message=Available%20to%20download&color=c2e622&style=for-the-badge&logo=checkmarx&logoColor=c2e622"/></a>
   <a href"LICENSE"><img src="http://img.shields.io/static/v1?label=License&message=MIT&color=962930&style=for-the-badge&logo=lospec&logoColor=962930"/></a>
+</p>
+
+---
+---
+
+<p align="center">
+  <img align="center" src="/images/readme/title-mask-fade.png">
 </p>
 
 ---
@@ -42,7 +42,7 @@
 <img align="right" src="/images/readme/icon-border.png">
 <br>
 <ul>
-  <li>Slang is a chrome extension that reads aloud any text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech (see image on the right), so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition! And of course, Slang can also be very useful to save your time if you let it reading for you while you do something else.</li>
+  <li>Slang is a chrome extension that reads aloud any text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition! And of course, Slang can also be very useful to save your time if you let it reading for you while you do something else.</li>
 </ul>
 </details>
 
@@ -51,7 +51,7 @@
 <img align="right" src="/images/readme/popup-sideborder.png">
 <br>
 <ul>
-  <li>To make Slang speak, select the text you want to hear, open the pop-up and hit the play button, or right-click the selected text and click speak. You can also type the text directly in the popup and click play. All speech settings can be edited through the popup.</li>
+  <li>To make Slang speak, select the text you want to hear, open the pop-up and hit the play button, or right-click the selected text and click speak. You can also type the text directly in the po-pup and click play. All speech settings can be edited through the pop-up.</li>
 </ul>
 <br>
 <br>
@@ -71,7 +71,7 @@
   <li>Speak any text selected on the internet or written directly in the pop-up.</li>
   <li>If there's text selected in the browser and another text was written in the pop-up, Slang is smart enough to decide which one to speak.</li>
   <li>While speaking, updates the text in the pop-up sentence by sentence, highlighting the sentence being spoken.</li>
-  <li>Keep speaking and updating the text in the popup even if you change to another page/tab, or close the original tab.</li>
+  <li>Keep speaking and updating the text in the pop-up even if you change to another page/tab, or close the original tab.</li>
   <li>When not speaking, the pop-up always shows the last spoken or edited text, even if the browser or computer has been restarted.</li>
   <li>When a speech is paused, Slang saves it so you can pick up where you left off later, even if the browser or computer has been restarted.</li>
   <li>21 voices in 14 languages available.</li>
