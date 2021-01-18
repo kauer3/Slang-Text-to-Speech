@@ -11,6 +11,7 @@
 ---
 ---
 
+<br>
 <p align="center">
   <img align="center" src="/images/readme/title-mask-fade.png">
 </p>
@@ -64,7 +65,6 @@
 <br>
 <br>
 <br>
-<br>
 </details>
 
 <details>
@@ -96,7 +96,6 @@
   <img src="/images/readme/context-menu.gif">
   <br>
   <em>...and through the right click menu.</em><br>
-  <br>
   <br>
 </p>
 
