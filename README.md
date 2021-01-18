@@ -11,7 +11,6 @@
 ---
 ---
 
-<br>
 <p align="center">
   <img align="center" src="/images/readme/title-mask-fade.png">
 </p>
