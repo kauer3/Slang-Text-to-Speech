@@ -46,6 +46,7 @@
 </ul>
 <br>
 <br>
+<div style="text-align: justify">
 </details>
 
 <details>
@@ -82,6 +83,7 @@
   <li>Customizable speed and pitch.</li>
 </ul>
 </details>
+</div>
 
 ---
 
