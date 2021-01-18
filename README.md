@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img align="center" src="/images/readme/title-mask-fade.png">
+  <img align="center" src="/images/readme/title-anm.gif">
 </p>
 
 ---
