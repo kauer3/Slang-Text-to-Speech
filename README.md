@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img align="center" src="/images/readme/title-anm.gif">
+  <img align="center" src="/images/readme/title-mask-fade.png">
 </p>
 
 ---
@@ -46,7 +46,6 @@
 </ul>
 <br>
 <br>
-<div style="text-align: justify">
 </details>
 
 <details>
@@ -83,7 +82,6 @@
   <li>Customizable speed and pitch.</li>
 </ul>
 </details>
-</div>
 
 ---
 
