@@ -39,7 +39,7 @@
 
 <details>
 <summary>What is it?</summary>
-<img align="right" src="/images/icon.png">
+<img align="right" src="/images/readme/icon225.png">
 <br>
 <ul>
   <li>Slang is a chrome extension that reads aloud any text from any website. It has a pop-up where it displays and updates the text it is reading, and highlights the sentence being spoken synchronized with the speech, so that you can keep reading along regardless of the page you're on. Listening and reading simultaneously increases comprehension, strengthens memory, helps build fluency skills including proper phrasing and expression and improve sight word recognition! And of course, Slang can also be very useful to save your time if you let it reading for you while you do something else.</li>
